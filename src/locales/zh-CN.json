@@ -1,0 +1,11 @@
+{
+    "app.logo-name": "前端學塘",
+    "header.featured-courses": "精選課程",
+    "hero.slogan": "前端學塘，{newline}讓醜小鴨前端程式{newline}像變身的{slogan-focus}",
+    "hero.slogan-focus": "天鵝一樣優雅",
+    "nav.login": "登入",
+    "nav.register": "註冊",
+    "button.how-to-begin": "如何開始",
+    "button.sample-video": "範例影片",
+    "button.begin-to-learn": "上課去"
+  }

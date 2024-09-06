@@ -1,0 +1,13 @@
+{
+    "app.logo-name": "Front-end Academy",
+    "header.featured-courses": "Featured Courses",
+    "hero.slogan": "Front-end Academy, {newline}transforming front-end programming{newline} from an ugly duckling into {slogan-focus}",
+    "hero.slogan-focus": "an elegant swan",
+    "nav.login": "login",
+    "nav.register": "register",
+    "button.how-to-begin": "How to begin",
+    "button.sample-video": "Sample Video",
+    "button.begin-to-learn": "learning",
+    "Account registration":"Account registration"
+
+  }
